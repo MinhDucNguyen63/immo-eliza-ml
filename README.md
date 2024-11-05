@@ -36,6 +36,8 @@ Here is an example of the evaluation results for the test set, with four differe
 | XGBoost         | 0.72  |
 | Random Forest   | 0.99  |
 
+```
+
 ## 📈 Performance
 
 The best-performing model achieved an R² score of 0.72 on the test set, indicating that it can explain 72% of the variance in property prices.
