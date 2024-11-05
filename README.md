@@ -2,12 +2,12 @@
 
 ## 📑 Table of Contents
 
-1. [🔎 Project Overview](#project-overview)
-2. [⏱️ Project Timeline](#project-timeline)
-3. [📊 Dataset](#dataset)
-4. [🤖 Model Training](#model-training)
-5. [📈 Performance](#performance)
-6. [👥 Contributor](#contributor)
+1. [🔎 Project Overview]
+2. [⏱️ Project Timeline]
+3. [📊 Dataset]
+4. [🤖 Model Training]
+5. [📈 Performance]
+6. [👥 Contributor]
 
 ## 🔎 Project Overview
 
