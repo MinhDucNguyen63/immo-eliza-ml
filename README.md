@@ -24,19 +24,19 @@ The dataset used in this project contains information about real estate properti
 
 ## 🤖 Model training
 
-The project explores several machine learning models, starting with a baseline RandomForest model and experimenting with other models like Linear Regression and XGBoost Regressor. The final model selection is based on performance metrics such as R² score and Mean Squared Error (MSE).
+The project explores several machine learning models, starting with a baseline RandomForest model and experimenting with other models like Linear Regression and XGBoost Regressor. The final model selection is based on performance metric R² score.
 
-I have iteratively tested 1. various preprocessing pipelines and 2. various algorithms to train and evaluate multiple ML models. I found that the RandomForest Regressor and XGBoost Regressor models performed the best.
+It is found that the RandomForest Regressor and XGBoost Regressor models performed the best.
 
 Here is an example of the evaluation results for the test set, with three different algorithms:
 
 ```
 
-| Model           | MAE         |   RMSE         | R2    |
-|                 |             |                |       |
-| LinearRegressor | 159,733.50  | 341,468.96     | 0.32  |
-| XGBoost         | 101,317.91  | 222,860.80     | 0.71  |
-| Random Forest   |  90,923.73  | 210,820.60     | 0.74  |
+| Model           | R2    |
+|                 |       |
+| LinearRegression| 0.39  |
+| XGBoost         | 0.72  |
+| Random Forest   | 0.99  |
 
 
 ## 📈 Performance
