@@ -1,5 +1,3 @@
-# immo-eliza-ml
-
 # 🏡 Real Estate Price Prediction - Immo Eliza
 
 ## 📑 Table of Contents
@@ -37,7 +35,6 @@ Here is an example of the evaluation results for the test set, with three differ
 | LinearRegression| 0.39  |
 | XGBoost         | 0.72  |
 | Random Forest   | 0.99  |
-
 
 ## 📈 Performance
 
